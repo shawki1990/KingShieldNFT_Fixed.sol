@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#FFD700"/>
+      <stop offset="1" stop-color="#FF8C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="24" height="24" rx="4" fill="#06121B"/>
+  <path d="M12 3 L3 7 v5 c0 6 4 9 9 9 s9-3 9-9 V7 L12 3 z" fill="url(#g)" stroke="#fff" stroke-width="0.5"/>
+  <text x="12" y="15" text-anchor="middle" fill="#06121B" font-size="4" font-family="Arial, NotoKufiArabic, 'Segoe UI Historic'" font-weight="700">درع</text>
+</svg>

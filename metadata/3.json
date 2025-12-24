@@ -1,0 +1,10 @@
+{
+  "name": "KingShield #3",
+  "description": "The third NFT in the KingShield collection",
+  "image": "ipfs://QmZVBrM8f8vhZR1L3YHFvX5n5K5K5K5K5K5K5K5K5K5K/image3.png",
+  "external_url": "https://kingshield.example.com/nft/3",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Rare"},
+    {"trait_type": "Power", "value": "60"}
+  ]
+}
